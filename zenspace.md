@@ -5,6 +5,7 @@
 <!-- ZENSPACE_BOOKMARKS_START -->
 ## 收藏夹
 
+- 📁 **Ssssss** `常用`
 - 📁 **张伟健** `文件夹`
 - 📁 **PCB** `文件夹`
 - 📁 **收藏夹栏** `文件夹`
@@ -588,6 +589,15 @@
 <!-- ZENSPACE_DATA_START
 {
   "bookmarks": [
+    {
+      "id": "jtdqzwpcn",
+      "title": "Ssssss",
+      "url": "",
+      "category": "常用",
+      "description": "Hshshhs",
+      "createdAt": 1774241568888,
+      "type": "folder"
+    },
     {
       "id": "gcqsdozyc",
       "title": "张伟健",
