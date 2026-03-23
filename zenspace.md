@@ -5,8 +5,6 @@
 <!-- ZENSPACE_BOOKMARKS_START -->
 ## 收藏夹
 
-- 📁 **Ssssss** `常用`
-- 📁 **张伟健** `文件夹`
 - 📁 **PCB** `文件夹`
 - 📁 **收藏夹栏** `文件夹`
 - [扫雷游戏在线玩](https://www.saolei.org.cn/)  `导入`
@@ -589,24 +587,6 @@
 <!-- ZENSPACE_DATA_START
 {
   "bookmarks": [
-    {
-      "id": "jtdqzwpcn",
-      "title": "Ssssss",
-      "url": "",
-      "category": "常用",
-      "description": "Hshshhs",
-      "createdAt": 1774241568888,
-      "type": "folder"
-    },
-    {
-      "id": "gcqsdozyc",
-      "title": "张伟健",
-      "url": "",
-      "category": "文件夹",
-      "description": "AI 自动创建",
-      "createdAt": 1774241252845,
-      "type": "folder"
-    },
     {
       "id": "root_pcb_folder",
       "title": "PCB",
